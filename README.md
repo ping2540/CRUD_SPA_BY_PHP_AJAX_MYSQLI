@@ -29,12 +29,12 @@ https://getcomposer.org/
 # Reference
 ##  Current Timestamp JS 
 https://momentjs.com/downloads/moment.js
-## Boostrap 4 5
+## Boostrap 4 and 5
 https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
 https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js
 https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js
 https://unpkg.com/sweetalert/dist/sweetalert.min.js
 https://pro.fontawesome.com/releases/v5.10.0/css/all.css
 https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
-
-
+## SweetAlert
+https://sweetalert.js.org/guides/
