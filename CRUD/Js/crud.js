@@ -193,7 +193,6 @@ $(document).ready(function () {
   $("#search").on("keyup", function () {
     var searchText = $(this).val().trim();
     if (searchText.length > 0) {
-      $("#add").prop("disabled", true);
       $.ajax({
         url: "http://localhost/CRUD/fetch.php",
         contentType: "application/json",
@@ -204,7 +203,6 @@ $(document).ready(function () {
         },
       });
     } else {
-      $("#add").prop("disabled", false);
       loadData();
     }
   });
